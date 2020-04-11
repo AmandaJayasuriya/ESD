@@ -1,2 +1,2 @@
 # ESD
-This repository if as assessment of ESD module
+This repository is as assessment of ESD module
